@@ -1,30 +1,15 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Mercy Hu - Personal Website
+🚀 Welcome to my personal website!
 
+This is my portfolio website, showcasing my experiences and interests. I have a strong passion for programming, traveling, playing classical guitar, and exploring diverse cuisines. My website is built using HTML, CSS, and JavaScript, and is fully responsive for all devices.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+About Me
+🎓 Student at UNSW - Majoring in Computer Science
+💡 Passionate about technology, problem-solving, and trading
+✈️ Avid traveler - Accumulated 257,126 km of flight miles
+🎸 Classical guitar enthusiast
+🍽️ Food lover - Exploring flavors from around the world
+Website Features
+🖥️ Showcases my experiences and interests
+📩 Provides ways to contact me (LinkedIn, GitHub, Instagram, Email)
+🦋 Minimalistic and modern UI design
